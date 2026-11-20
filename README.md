@@ -1,15 +1,14 @@
 # Hostel Management System (HMS Nexus)
 
-A comprehensive Python-based desktop application developed to manage college and university hostel activities in a structured, automated, and secure manner. Built **100% in Python** using **CustomTkinter** and **SQLite / SQLAlchemy** with **zero HTML, CSS, or JavaScript**.
+A comprehensive Python-based desktop application developed to manage college and university hostel activities in a structured, automated, and secure manner. Built **100% in Python** using **CustomTkinter** and **SQLite / SQLAlchemy** 
 
 ---
 
 ## 🚀 Key Highlights & Tech Stack
 
-- **Frontend / UI**: **CustomTkinter** (Pure Python Desktop GUI)
+- **Frontend / UI**: **CustomTkinter** 
   - Sleek modern design with dark mode and light mode support
   - Native desktop window with responsive cards, tables, segmented controls, and modal dialogs
-  - **Zero HTML, CSS, or JavaScript dependencies** (complies strictly with academic guide restrictions)
 - **Backend & Database**: Python, SQLAlchemy, SQLite, Bcrypt password encryption
 
 ---
